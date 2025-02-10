@@ -7,6 +7,7 @@ expenses = int(input("Enter monthly Expenses: "))
 savings = income - expenses
 percentage_saving = (savings / income) * 100
 
+# nested if else statement
 if percentage_saving >= 20:
     print(f"Great Job {name} you have a strong saving habit")
 else:

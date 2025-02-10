@@ -1,4 +1,5 @@
 name = input("Enter your name")
+# import from financial_health_check file variable
 from financial_health_check import percentage_saving
 saving_goals = int(input("Provide saving goals in percentage: "))
 lack_of_saving = saving_goals - percentage_saving
