@@ -18,3 +18,4 @@ else:
     # if amount remains in hand after saving added
     if remaining_amount > 0:
         print("Remaining amount after savings ", remaining_amount, "%")
+
