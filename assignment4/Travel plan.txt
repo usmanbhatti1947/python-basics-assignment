@@ -1,0 +1,5 @@
+selected city Karachi
+expected weather Sunny
+Traveling Days 3.0
+expected cost 575.0
+packing list ['Sunglasses', 'Sunscreen', 'Hat']
